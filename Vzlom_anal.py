@@ -1,11 +1,7 @@
-print(1)
-print(2)
-print(3)
-print(4)
-print(5)
-print(6)
-print(7)
-print(8)
-print(9)
-print(10)
-print('Ура, вы успешно взломали Anal Админа!!!')
+counter = 1
+
+while  counter < 101 : 
+  print(counter)
+  counter += 1
+  
+print('Вы успешно взломали Пентагон!!!')
